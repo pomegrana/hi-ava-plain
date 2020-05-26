@@ -9,7 +9,7 @@ const variables = {
   quotes: [
     { quote: "I'm sorry for loving you.", author: "ヒガンバナ" },
     { quote: "I love you.", author: "ヒガンバナ" },
-    { quote: "I love you!", author: "Lyco" },
+    { quote: "I love you!", author: "ヒガンバナ" },
     { quote: "Lyco love Encio", author: "Lyco's Encio" },
     { quote: "Love you 3000", author: "Lycoco" },
   ],
